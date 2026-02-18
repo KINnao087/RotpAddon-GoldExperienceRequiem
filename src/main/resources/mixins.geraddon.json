@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.inza.geraddon.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.geraddon.refmap.json",
+  "mixins": [
+    "ServerWorldMixin",
+    "TimeStopMixin",
+    "TimeStopHandlerMixin"
+  ],
+  "client": [],
+  "server": []
+}
+
