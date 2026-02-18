@@ -59,7 +59,7 @@ public class GoldExprienceRequiemModel extends HumanoidStandModel<GoldExprienceR
 	public GoldExprienceRequiemModel() {
 //		super();
         root = new ModelRenderer(this);
-        root.setPos(0.0F, 0.0F, 0.0F);
+        root.setPos(0.0F, -29.0F, 0.0F);
 
 
         head = new ModelRenderer(this);
